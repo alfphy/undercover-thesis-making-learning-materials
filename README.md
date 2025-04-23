@@ -9,19 +9,19 @@
 <h3>📚 PREREQUISITES</h3>
 
 <p>
-  <strong>Set Theory</strong><br>
+  <strong>Set Theory book</strong><br>
   <em>Set Theory by Robert Andre</em><br>
   <a href="https://drive.google.com/file/d/1WNCvl7d1edJ0A0lX7hRQFbon8J_Cow8z/view?usp=drive_link">https://drive.google.com/file/d/1WNCvl7d1edJ0A0lX7hRQFbon8J_Cow8z/view?usp=drive_link</a>
 </p>
 
 <p>
-  <strong>Algebra</strong><br>
+  <strong>Algebra book</strong><br>
   <em>Beginning and Intermediate Algebra by Tyler Wallace</em><br>
   <a href="https://drive.google.com/file/d/13-zCd6Cd29NhJ2KrpjFm_YQ5FeoacfVr/view?usp=drive_link">https://drive.google.com/file/d/13-zCd6Cd29NhJ2KrpjFm_YQ5FeoacfVr/view?usp=drive_link</a>
 </p>
 
 <p>
-  <strong>Geometry</strong><br>
+  <strong>Geometry book</strong><br>
   <em>Geometry by Ann Xavier Gantert</em><br>
   <a href="https://drive.google.com/file/d/1VY8G8CTU773401mfnwVQ5dyg64TjJah_/view?usp=drive_link">https://drive.google.com/file/d/1VY8G8CTU773401mfnwVQ5dyg64TjJah_/view?usp=drive_link</a>
 </p>
@@ -31,19 +31,19 @@
 <h3>🧮 MAIN MATH FOR ML</h3>
 
 <p>
-  <strong>Linear Algebra</strong><br>
+  <strong>Linear Algebra book</strong><br>
   <em>Matrix Theory and Linear Algebra: An Open Text by Peter Selinger</em><br>
   <a href="https://drive.google.com/file/d/1zskFqeaUzM8UBUViMAzk-f28A-eMvTnt/view?usp=drive_link">https://drive.google.com/file/d/1zskFqeaUzM8UBUViMAzk-f28A-eMvTnt/view?usp=drive_link</a>
 </p>
 
 <p>
-  <strong>Calculus</strong><br>
+  <strong>Calculus book</strong><br>
   <em>Calculus Early Transcendentals by James Stewart</em><br>
   <a href="https://drive.google.com/file/d/1hB7inB4YSEsj6lnioSiTYGrYkJB9OrLy/view?usp=drive_link">https://drive.google.com/file/d/1hB7inB4YSEsj6lnioSiTYGrYkJB9OrLy/view?usp=drive_link</a>
 </p>
 
 <p>
-  <strong>Probability and Statistics</strong><br>
+  <strong>Probability and Statistics book</strong><br>
   <em>By Murray R. Spiegel, John J. Schiller, R. Alu Srinivasan</em><br>
   <a href="https://drive.google.com/file/d/1f1Lldyeae56R9RewY6ngEzIHgibnO5za/view?usp=drive_link">https://drive.google.com/file/d/1f1Lldyeae56R9RewY6ngEzIHgibnO5za/view?usp=drive_link</a>
 </p>
@@ -83,4 +83,9 @@
 <p>
   <strong>Deep Learning for Computer Vision</strong>
   <a href="https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_">https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_</a>
+</p>
+<h3>(Code) Video</h3>
+<p>
+  <strong>Practical Deep Learning for Coders</strong>
+  <a href="https://course.fast.ai/">https://course.fast.ai/</a>
 </p>
