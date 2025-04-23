@@ -79,13 +79,17 @@
 </p>
 
 <h2>🤖 Machine Learning</h2>
+
 <h3>(Theory) Video</h3>
+
 <p>
-  <strong>Deep Learning for Computer Vision</strong>
+  <strong>Deep Learning for Computer Vision</strong><br>
   <a href="https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_">https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_</a>
 </p>
+
 <h3>(Code) Video</h3>
+
 <p>
-  <strong>Practical Deep Learning for Coders</strong>
+  <strong>Practical Deep Learning for Coders</strong><br>
   <a href="https://course.fast.ai/">https://course.fast.ai/</a>
 </p>
