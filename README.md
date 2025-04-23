@@ -1,7 +1,5 @@
 <h1>📘 undercover-thesis-making</h1>
 
-<p><strong>Language</strong> - Mainly <strong>PYTHON</strong></p>
-
 <hr>
 
 <h2>🧠 Mathematics (For Machine Learning and Computer Vision)</h2>
