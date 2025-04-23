@@ -82,5 +82,5 @@
 <h3>(Theory) Video</h3>
 <p>
   <strong>Deep Learning for Computer Vision</strong>
-  <a href="https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_"https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_</a>
+  <a href="https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_">https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_</a>
 </p>
