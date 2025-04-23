@@ -77,3 +77,10 @@
   <strong>OpenCV with Web App Development (Muhammad Moin)</strong><br>
   <a href="https://www.youtube.com/@muhammadmoinfaisal/featured">https://www.youtube.com/@muhammadmoinfaisal/featured</a>
 </p>
+
+<h2>🤖 Machine Learning</h2>
+<h3>(Theory) Video</h3>
+<p>
+  <strong>Deep Learning for Computer Vision</strong>
+  <a href="https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_"https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&si=S0c82GdekiSFnHV_</a>
+</p>
