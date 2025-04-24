@@ -6,6 +6,14 @@
 
 <h2>👁️‍🗨️ Computer Vision</h2>
 
+<h3>🎥 (Theory) Video</h3>
+
+<p>
+  <strong>Computer Vision — Andreas Geiger</strong><br>
+  <a href="https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT">https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT</a>
+</p>
+
+
 <h3>📖 (Theory) Book</h3>
 
 <p>
@@ -13,12 +21,6 @@
   <a href="https://drive.google.com/file/d/1xv0fX2q08Wrm4NVqRLbVBvn2spw70uuj/view?usp=drive_link">https://drive.google.com/file/d/1xv0fX2q08Wrm4NVqRLbVBvn2spw70uuj/view?usp=drive_link</a>
 </p>
 
-<h3>🎥 (Theory) Video</h3>
-
-<p>
-  <strong>Computer Vision — Andreas Geiger</strong><br>
-  <a href="https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT">https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT</a>
-</p>
 
 <h3>💻 (Code) OpenCV</h3>
 
