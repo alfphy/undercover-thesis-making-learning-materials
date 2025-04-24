@@ -60,8 +60,8 @@
 <h3>🎥 (Theory) Video</h3>
 
 <p>
-  <strong>Stanford Computer Vision Lectures</strong><br>
-  <a href="https://youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&si=vKnnzoJXwhOh6TJl">https://youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&si=vKnnzoJXwhOh6TJl</a>
+  <strong>Computer Vision — Andreas Geiger</strong><br>
+  <a href="https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT">https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&si=lpgpeXm1P37jr8eT</a>
 </p>
 
 <h3>💻 (Code) OpenCV</h3>
